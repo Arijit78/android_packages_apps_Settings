@@ -81,6 +81,10 @@
     <string name="show_powermenu">Show Power menu</string>
     <string name="partial_screenshot">Partial screenshot</string>
 
+    <!-- FastCharge feature -->
+    <string name="fast_charging_title">Fast charging</string>
+    <string name="fast_charging_summary">Disable to reduce the heat produced by the device while charging or to extend the lifespan of the battery</string>
+
     <!-- Long swipe gestures -->
     <string name="navbar_gesture_tweaks_pref_title">Advanced gestures options</string>
     <string name="navbar_gesture_tweaks_pref_summary">Customize gestures and set custom actions</string>
